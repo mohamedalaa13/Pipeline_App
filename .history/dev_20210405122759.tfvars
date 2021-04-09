@@ -1,0 +1,9 @@
+cidr
+name
+public1_subnet_cidr
+public2_subnet_cidr
+private1_subnet_cidr
+private2_subnet_cidr
+az1
+az2
+region
